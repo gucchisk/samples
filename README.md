@@ -9,7 +9,7 @@
 - [js-samples]
 - [node-samples]
 - [node-addon-samples]
-- [switf-samples]
+- [swift-samples]
 - [php-samples]
 - [sh-samples]
 
